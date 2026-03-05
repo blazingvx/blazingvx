@@ -69,19 +69,15 @@ Welcome to my GitHub profile! I am a passionate developer with a focus on buildi
   
 <details>
   <summary><strong>GitHub Stats</strong></summary>
-  
-  <img width="96%" alt="blazingvx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=blazingvx&theme=radical&show_icons=true&hide_border=true" />
+    
   <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=blazingvx&theme=radical&show_icons=true&hide_border=true" />
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=blazingvx&theme=github-compact"/>
   <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blazingvx&theme=dracula"/>
-  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=blazingvx&theme=onedark&row=1"/>
-  <p align = "center"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazingvx&theme=dark"/></p>
-  <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazingvx&layout=donut&exclude_repo=TwitterApp&langs_count=8"/>
   
 </details>
 
 ---
 
-<h2 align="center">Visitor Count <img align="center" src="https://profile-counter.glitch.me/blazingvx/count.svg" alt="Visitor Count" /></h2>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=blazingvx&label=Profile%20views&color=0e75b6&style=flat" alt="blazingvx" /> </p>
 
 ![Snake animation](https://github.com/blazingvx/blazingvx/blob/output/github-contribution-grid-snake.svg)
